@@ -20,9 +20,9 @@ cargo install cargo-binutils
 
 ```bash
 # Maixduino
-cargo build --release --feature maixduino
+cargo build --release --examples --features maixduino
 # Other
-cargo build --release --feature maix
+cargo build --release --examples --features maix
 ```
 
 ## Flash
