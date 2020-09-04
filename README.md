@@ -31,7 +31,7 @@ To build an example and flash using **kflash**
 
 - You may need to specify a COM/tty port using -p
   - COM8 (Windows)
-  - /dev/tty8 (Linux)
+  - /dev/ttyS8 (Linux)
 - You may need to specify a different board using -B
   - kd233
   - dan
